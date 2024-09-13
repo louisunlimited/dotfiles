@@ -1,0 +1,13 @@
+[user]
+	name = Louis Qian
+	email = yuq4@illinois.edu
+[credential]
+	helper = osxkeychain
+[alias]
+  st = status
+  cm = commit
+  br = branch
+  sw = switch
+  p  = push
+[push]
+	autoSetupRemote = true
