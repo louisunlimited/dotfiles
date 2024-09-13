@@ -43,6 +43,7 @@ return {
 				"prettier", -- prettier formatter
 				"stylua", -- lua formatter
 				"latexindent", -- latex formatter
+				"eslint_d", -- js linter
 			},
 		})
 	end,
