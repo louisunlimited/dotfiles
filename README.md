@@ -22,6 +22,7 @@ Currently nvim uses the following plugins:
 - Autopairs
 - ColorScheme (lightfly)
 - vimtex (for latex editing & previewing)
+- markdown-preview
 - telescope (fuzzy finder)
 - nvim-tree (for a nice tree view of my files)
 - treesitter (for syntax highlighting)
