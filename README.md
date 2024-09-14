@@ -1,6 +1,6 @@
 # Dotfiles
 
-This is an attempt to have a single repository to store all of my configuration dotfiles for differnt
+This is an attempt to have a single repository to store all of my configuration dotfiles for different
 tools that I use.
 
 ## Tools
@@ -55,7 +55,7 @@ stow .
 
 everytime a new file was added but after this everything works like a breeze.
 
-I have also included a custom `/stow-local-ignore` to let `stow` know what files to not symlink.
+I have also included a custom `.stow-local-ignore` to let `stow` know what files to not symlink.
 
 Since all the files are symlinked, any edits done here will reflect directly to everywhere,
 ensuring a single souce of truth. I find this approach a lot better than doing a bare git repo like
