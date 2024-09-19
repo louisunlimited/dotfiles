@@ -6,8 +6,7 @@
 [alias]
   st = status
   cm = commit
-  br = branch
-  sw = switch
+  s  = switch
   p  = push
 [push]
 	autoSetupRemote = true
