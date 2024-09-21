@@ -1,3 +1,6 @@
+[Settings]
+Author = "Louis Qian"
+
 [courses]
 CS433 = "CS433: Computer System Organization"
 CS412 = "CS412: Introduction to Data Mining"
